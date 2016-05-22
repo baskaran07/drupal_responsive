@@ -2,5 +2,3 @@
 Responsive design for Drupal 7
 First version
 Second version
-Third version
-Fouth Versions
